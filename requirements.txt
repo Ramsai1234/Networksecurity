@@ -1,3 +1,5 @@
-pyhton-dotenv
+python-dotenv
 numpy 
 pandas
+
+## -e .
